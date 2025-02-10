@@ -1,5 +1,8 @@
 # Aplicativo Gerenciador de Alunos
 Este projeto é uma aplicação web desenvolvida em React para consumir a API RESTful Escola API. Ele permite a gestão de alunos, usuários, autenticação e upload de fotos, utilizando os serviços disponibilizados pela API.
+
+https://github.com/user-attachments/assets/95ef2f93-5cf7-4d4a-99fc-51811c80ec74
+
 ---
 ## Tecnologias Utilizadas
 - React.js
